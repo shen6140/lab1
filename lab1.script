@@ -1,0 +1,15 @@
+Script started on 2017年03月13日 (週一) 23時23分16秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m whoami; pwd
+pd2vm
+/home/pd2vm/c++/lab1
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m git config -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m git clone https://github.com/shen6140/lab1.g it
+Cloning into 'lab1'...
+remote: Counting objects: 11, done.[K
+remote: Compressing objects:  16% (1/6)   [Kremote: Compressing objects:  33% (2/6)   [Kremote: Compressing objects:  50% (3/6)   [Kremote: Compressing objects:  66% (4/6)   [Kremote: Compressing objects:  83% (5/6)   [Kremote: Compressing objects: 100% (6/6)   [Kremote: Compressing objects: 100% (6/6), done.[K
+remote: Total 11 (delta 1), reused 8 (delta 1), pack-reused 0[K
+Unpacking objects:   9% (1/11)   Unpacking objects:  18% (2/11)   Unpacking objects:  27% (3/11)   Unpacking objects:  36% (4/11)   Unpacking objects:  45% (5/11)   Unpacking objects:  54% (6/11)   Unpacking objects:  63% (7/11)   Unpacking objects:  72% (8/11)   Unpacking objects:  81% (9/11)   Unpacking objects:  90% (10/11)   Unpacking objects: 100% (11/11)   Unpacking objects: 100% (11/11), done.
+Checking connectivity... done.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m exit
+
+Script done on 2017年03月13日 (週一) 23時26分15秒
