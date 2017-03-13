@@ -1,0 +1,12 @@
+Script started on 2017年03月13日 (週一) 23時53分00秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m g++ main.cpp -o lab1_questin[KonB
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m ls
+[0m[01;32mlab1_questionB[0m  lab1_questionB.script  lab1.script  main.cpp  README.md
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m ./lab1_questionB 
+Please write a number n 
+22
+n = 22
+11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 [01;32mpd2vm@pd2vm-VirtualBox[01;34m ~/c++/lab1 $[00m exit
+exit
+
+Script done on 2017年03月13日 (週一) 23時53分46秒
